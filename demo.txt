@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My first file
+=======
+This is my first file
+>>>>>>> 6c60280629000e1b236053f89af071fd7937938e
